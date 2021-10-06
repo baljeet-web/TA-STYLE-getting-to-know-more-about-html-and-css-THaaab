@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: whitesmoke;
+    /* text-align: center; */
+}
+.center{
+  width: 50%;
+  margin: 0 auto;
+}
+
+article{
+  text-align: left;
+}
+p{
+  text-align:left;
+}
+header{
+  background-color:rgb(202, 17, 202) ;
+}
+footer{
+  background-color: rgb(128, 37, 212);
+  font-style: italic;
+}
